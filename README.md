@@ -1,4 +1,4 @@
-# Usage:
+# Usage
 ## How to start the service
 sh start.sh
 ## How to test the service
